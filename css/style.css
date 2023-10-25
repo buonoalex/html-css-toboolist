@@ -56,7 +56,14 @@ main{
     
 }
 
-/* CLASSI COLORI*/
+.font-size-text-c{
+    font-size: 10px;
+}
+
+.line-height-20{
+    line-height: 20px;
+}
+/* CLASSI COLORI */
 
 .bg-c-blue{
     background-color: blue;
