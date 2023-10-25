@@ -15,12 +15,17 @@ hr{
     color :white;
 }
 
+h2{
+    font-weight: lighter;
+    color: rgb(60, 58, 58);
+}
+
 /* CLASSI */
 
 .ombra-s{
     border: 1px solid white;
     padding: 10px;
-    box-shadow: 5px 30px 18px black;
+    box-shadow: 5px 20px 50px black;
 }
 
 .bg-gray{
@@ -85,6 +90,10 @@ hr{
     border-radius: 50%;
     display: inline-block;
     border: 1px solid green;
+}
+
+.ombra-h{
+    box-shadow: 10px 20px 50px black inset;
 }
 
 
