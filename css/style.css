@@ -11,6 +11,12 @@ main{
     padding-bottom: 100px;
 }
 
+.ombra-s{
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 30px 18px black;
+}
+
 
 /* CLASSI */
 
@@ -63,6 +69,13 @@ main{
 .line-height-20{
     line-height: 20px;
 }
+
+.x-red{
+    color: red;
+}
+
+
+
 /* CLASSI COLORI */
 
 .bg-c-blue{
@@ -88,14 +101,31 @@ main{
     background-color:aqua;
 }
 
-
-
-
-
 /* ID */
 #tab-info{
     width: 60%;
     margin: 0 auto;
     border-radius: 5px;
     background-color: white;
+}
+
+.ombra-s{
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 30px 18px black;
+}
+
+.circle{
+        height: 15px;
+        width: 15px;
+        background-color:white;
+        border-radius: 50%;
+        display: inline-block;
+        border: 1px solid green;
+}
+
+#radice{
+    font-size: 13px;
+    color: green;
+    display: inline-block;
 }
