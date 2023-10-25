@@ -8,6 +8,7 @@
 /* TAG */
 main{
     padding: 40px;
+    padding-bottom: 100px;
 }
 
 
@@ -39,14 +40,55 @@ main{
     background-color: red;
 }
 
+.container-end{
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.text-white{
+    color: white;
+}
+
+.p-10{
+    padding: 10px;
+    
+}
+
+/* CLASSI COLORI*/
+
+.bg-c-blue{
+    background-color: blue;
+}
+
+.bg-c-viola{
+    background-color: violet;
+}
+
+.bg-c-green{
+    background-color:green;
+}
+
+.bg-c-orange{
+    background-color:orange;
+}
+
+.bg-c-fucsia{
+    background-color:fuchsia;
+}
+.bg-c-acqua{
+    background-color:aqua;
+}
+
+
+
 
 
 /* ID */
 #tab-info{
     width: 60%;
-    height: 500px;
     margin: 0 auto;
     border-radius: 5px;
     background-color: white;
-
 }
