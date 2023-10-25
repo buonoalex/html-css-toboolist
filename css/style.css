@@ -57,8 +57,8 @@ h2{
 .container-end{
     display: inline-block;
     border: 1px solid;
-    border-radius: 50px;
-    padding: 5px;
+    border-radius: 40px;
+    padding: 3px;
 }
 
 .text-white{
@@ -95,6 +95,7 @@ h2{
 .ombra-h{
     box-shadow: 10px 20px 50px black inset;
 }
+
 
 
 
