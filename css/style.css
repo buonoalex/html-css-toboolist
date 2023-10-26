@@ -31,12 +31,6 @@ div:hover p{
 
 /* CLASSI */
 
-.ombra-s{
-    border: 1px solid white;
-    padding: 10px;
-    box-shadow: 5px 20px 50px black;
-}
-
 .bg-gray{
     background-color:rgb(235, 235, 235);
 }
@@ -101,10 +95,24 @@ div:hover p{
     border: 1px solid green;
 }
 
+
+.radice{
+    font-size: 13px;
+    color: green;
+    display: block;
+}
+
+/* SHADOW CLASS */
+
 .ombra-h{
     box-shadow: 10px 20px 50px black inset;
 }
 
+.ombra-s{
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 20px 50px black;
+}
 
 
 
@@ -142,7 +150,7 @@ div:hover p{
     background-color: white;
 }
 
-#radice{
+.radice{
     font-size: 13px;
     color: green;
     display: block;
